@@ -1,2 +1,2 @@
 # Elnatan
-Ue
+Print("elnatan")
